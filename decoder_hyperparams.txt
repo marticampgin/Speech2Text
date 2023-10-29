@@ -1,0 +1,7 @@
+d_model=768
+nhead=12
+num_decoder_l=6
+dim_ff=2048
+dropout=0.1
+activation=relu
+layer_norm_eps=1e-5
