@@ -1,0 +1,1 @@
+### This project was about creating a Speech2Text model that instead of relying on the direct signal-processin,g utilizes Visual Transformer Encoder to extract features from a spectrogram. The features are then fed to a decoder (LSTM) that converts the extracted features to a speech.
