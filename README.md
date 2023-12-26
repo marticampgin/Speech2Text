@@ -5,3 +5,5 @@ We utilized the Norwegian Newspaper Corpus to train our model and conduct the ex
 
 While conducting several experiments, the most comprehensive and fruitful is provided in the folder [raining w. pre-trained ViT (.py-files)](training%20w.%20pre-trained%20ViT%20(.py-files). 
 Instructions on how to repeat each of the experiments are provided in each separate folder. Make sure to download the dataset and extract a folder containing WAV files with recordings to repeat experiments. The dataset is not included in the repo due-to its size (~2 GB). 
+
+A more detailed and thorough description of the project and experiments is provided in the [PDF paper](paper.pdf). 
